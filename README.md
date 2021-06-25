@@ -6,4 +6,4 @@ Small project for class to practice using external databases.
 
 I hope you like it.
 
-![Screenshot](./images/screenshot.png)
+![Screenshot](./screenshot.png)
