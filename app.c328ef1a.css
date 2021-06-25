@@ -26289,6 +26289,7 @@ canvas {
   overflow-x: hidden;
 }
 #wrapper .displayResults .movie {
+  cursor: pointer;
   border: 2px solid black;
   width: 95%;
   margin-top: 30px;
