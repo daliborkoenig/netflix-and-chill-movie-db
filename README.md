@@ -8,4 +8,4 @@ Search for content with searchbox. Click on the movie to open extended info. Sam
 
 I hope you like it.
 
-![Screenshot](./images/screenshot.png)
+![Screenshot](./screenshot.png)
